@@ -1,3 +1,4 @@
+
 /*globals cloudantService:true */
 /*eslint-env node */
 var express = require('express');
